@@ -29,6 +29,7 @@ I'm deeply interested in automobiles and the latest technological advancements i
 ### 📫 How to reach me:
 - **LinkedIn**: https://www.linkedin.com/in/muhammad-faheem-iqbal-ai-solutions-architect-b630932ab/
 - **Email**: faheemiqbalbwn2002@gmail.com
+- **HuggingFave**: https://huggingface.co/FaheemAi1024
 ---
 
 
