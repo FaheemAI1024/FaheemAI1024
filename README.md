@@ -33,7 +33,3 @@ I'm deeply interested in automobiles and the latest technological advancements i
 - **Kaggle**: https://www.kaggle.com/faheem113141
 ---
 
-<!---
-FaheemAI1024/FaheemAI1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
